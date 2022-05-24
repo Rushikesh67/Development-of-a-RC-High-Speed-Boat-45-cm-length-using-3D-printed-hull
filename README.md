@@ -2,7 +2,7 @@
 
 ![PXL_20220407_134046816 (1)](https://user-images.githubusercontent.com/81912881/170030390-ff4669cc-dad2-4f02-b0d5-b52372c2fbf3.jpg)
 
-Printed with Ender Creality 3
+Printed with Ender Creality 3, Fusion 360 .f3z file and circuit diagram attached
 
 
 
